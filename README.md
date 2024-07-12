@@ -38,7 +38,7 @@ end_page = 33    # Replace with your desired end page
 3. Run the script:
 
 ```bash
-python extract_pages.py
+python pdf_cutter.py
 ```
 
 ## Example
