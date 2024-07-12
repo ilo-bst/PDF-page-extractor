@@ -22,38 +22,6 @@ Next, install the `PyPDF2` library using pip:
 pip install PyPDF2
 ```
 
-Sure! Here's a suggestion for the name of the repository and a README for it.
-
-### Repository Name
-`pdf-page-extractor`
-
-### README.md
-
-```markdown
-# PDF Page Extractor
-
-This repository contains a simple Python script to extract specific pages from a PDF file using the `PyPDF2` library. 
-
-## Features
-
-- Extract a range of pages from a PDF file.
-- Save the extracted pages as a new PDF file.
-
-## Requirements
-
-- Python 3.x
-- PyPDF2 library
-
-## Installation
-
-First, ensure you have Python installed. You can download it from [python.org](https://www.python.org/).
-
-Next, install the `PyPDF2` library using pip:
-
-```bash
-pip install PyPDF2
-```
-
 ## Usage
 
 1. Clone this repository or download the script directly.
