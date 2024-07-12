@@ -57,6 +57,3 @@ You can modify these variables to suit your needs.
 ## License
 
 This project is licensed under the MIT License. See the LICENSE file for details.
-```
-
-Feel free to customize the repository name and README further according to your preferences and requirements!
