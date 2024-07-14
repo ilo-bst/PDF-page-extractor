@@ -82,10 +82,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 - [PyMuPDF](https://pymupdf.readthedocs.io/en/latest/)
 - [Pillow](https://python-pillow.org/)
 
-## Contact
-
-For any questions or feedback, please contact [Your Name] at [Your Email].
-
----
-
-Feel free to customize this README file as per your specific requirements.
